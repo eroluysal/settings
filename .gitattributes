@@ -1,0 +1,6 @@
+* text=auto
+
+/tests export-ignore
+changes.md merge=union
+.gitignore export-ignore
+.gitattributes export-ignore
