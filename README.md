@@ -1,2 +1,2 @@
-# settings
-Settings package for Laravel Framework.
+# Settings
+[![Build Status](https://travis-ci.org/eroluysal/settings.svg)](https://travis-ci.org/eroluysal/settings)
